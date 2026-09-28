@@ -12,7 +12,7 @@ st.set_page_config(
 
 st.title("🎬 영화 데이터 그래프 도감 1 - 시간")
 
-DATA_URL = "https://raw.githubusercontent.com/greatsong/modudata/main/data/kobis_daily.csv"
+DATA_URL = "https://raw.githubusercontent.com/happykth/data/main/kobis_movies.csv"
 
 
 # ---------------------------------------
